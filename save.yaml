@@ -1,25 +1,28 @@
 ---
 :secret_word:
-- d
-- i
-- a
+- s
+- p
+- e
 - c
-- r
-- i
+- u
+- l
+- a
 - t
 - i
-- c
-:score: 6
+- v
+- e
+:score: 7
 :feedback:
 - _
 - _
+- _
+- _
+- _
+- _
 - a
 - _
 - _
 - _
 - _
-- _
-- _
-:incorrect_letters:
-- e
+:incorrect_letters: []
 :game_over: false
